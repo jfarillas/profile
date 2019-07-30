@@ -1,7 +1,8 @@
-# profile
+# Profile - Online CV Management
 
 ## Project setup
 ```
+git clone https://github.com/jfarillas/profile.git
 npm install
 ```
 
